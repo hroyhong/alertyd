@@ -33,7 +33,7 @@ content_cache = {}
 def get_domain(url):
     return urlparse(url).netloc
 
-def fetch_web_content(url):
+def fetch_web_content(url, keyword):
     domain = get_domain(url)
     
     # Check if content is already in cache
@@ -58,6 +58,9 @@ def fetch_web_content(url):
 
     if content:
         content_cache[url] = content
+
+    if keyword not in content:
+        return None
     
     return content
 

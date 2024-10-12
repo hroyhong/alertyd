@@ -7,6 +7,7 @@ import logging
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 import re
+from .cleaner import clean_title, clean_link
 
 # Load environment variables
 load_dotenv()
@@ -59,6 +60,7 @@ def get_alerts_from_email(days=1):
                     if isinstance(subject, bytes):
                         subject = subject.decode(encoding if encoding else "utf-8")
                     
+                    subject = clean_title(subject)
                     keyword = extract_keyword_from_subject(subject)
                     if not keyword:
                         continue
@@ -69,13 +71,20 @@ def get_alerts_from_email(days=1):
                         for part in msg.walk():
                             if part.get_content_type() == "text/html":
                                 body = part.get_payload(decode=True).decode()
-                                links = extract_links_from_html(body)
+                                soup = BeautifulSoup(body, 'html.parser')
+                                links = soup.find_all('a')
                                 for link in links:
-                                    alerts.append({
-                                        'keyword': keyword,
-                                        'link': link
-                                    })
-                                    logger.info(f"Found alert link for '{keyword}': {link}")
+                                    href = link.get('href')
+                                    if href and href.startswith('https://www.google.com/url?rct=j&sa=t&url='):
+                                        cleaned_link = clean_link(href)  # Use clean_link function
+                                        title = link.text.strip()
+                                        alerts.append({
+                                            'keyword': keyword,
+                                            'link': cleaned_link,
+                                            'title': title
+                                        })
+                                        logger.info(f"Found alert link for '{keyword}': {cleaned_link}")
+                                        logger.info(f"Title: {title}")
 
         return alerts
 
@@ -102,4 +111,5 @@ if __name__ == "__main__":
     for alert in alerts:
         print(f"Keyword: {alert['keyword']}")
         print(f"Link: {alert['link']}")
+        print(f"Title: {alert['title']}")
         print("---")

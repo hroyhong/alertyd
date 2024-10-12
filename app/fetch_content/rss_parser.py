@@ -3,39 +3,9 @@ from typing import List, Dict, Union
 import logging
 from urllib.parse import urlparse, parse_qs
 import re
+from .cleaner import clean_article
 
 logger = logging.getLogger(__name__)
-# Function to clean HTML from titles
-def clean_title(title):
-    cleanr = re.compile('<.*?>')
-    clean_title = re.sub(cleanr, '', title)
-    clean_title = clean_title.replace("<b>", "").replace("</b>", "").replace("&quot;", "")
-    return clean_title
-
-# Function to clean Google redirect links
-def clean_link(url):
-    parsed_url = urlparse(url)
-    query_params = parse_qs(parsed_url.query)
-    return query_params['url'][0] if 'url' in query_params else url
-
-
-def clean_article(article: Dict) -> Dict:
-    """
-    Clean all fields of an article.
-
-    Args:
-    article (Dict): A dictionary containing article information.
-
-    Returns:
-    Dict: The cleaned article dictionary.
-    """
-    cleaned_article = {
-        'title': clean_title(article['title']),
-        'published': article['published'],
-        'link': clean_link(article['link']),
-    }
-    return cleaned_article
-
 
 def fetch_rss_content(rss_urls: Union[str, List[str]]) -> List[Dict]:
     """
@@ -67,4 +37,6 @@ def fetch_rss_content(rss_urls: Union[str, List[str]]) -> List[Dict]:
         except Exception as e:
             logger.error(f"An error occurred while parsing {rss_url}: {e}")
 
-    return [clean_article(article) for article in all_articles]
+    cleaned_entries = [clean_article(article) for article in all_articles]
+
+    return cleaned_entries

@@ -29,18 +29,19 @@ def send_markdown_email(sender_email, sender_password, recipient_email, subject,
         print("Email sent successfully")
     except Exception as e:
         print(f"Error sending email: {e}")
+    return
 
-# Read the generated content from the file
-project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
-generated_content_path = os.path.join(project_root, 'app', 'tests', 'generated_text', 'test.txt')
+# # Read the generated content from the file
+# project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
+# generated_content_path = os.path.join(project_root, 'app', 'tests', 'generated_text', 'test.txt')
 
-with open(generated_content_path, 'r') as file:
-    markdown_content = file.read()
+# with open(generated_content_path, 'r') as file:
+#     markdown_content = file.read()
 
-# Example usage
-sender_email = "get@alertyd.com"
-sender_password = "yR2WtPOffk12OJ6t"  # Your IMAP/SMTP password
-recipient_email = "hroyhong@gmail.com"
-subject = "AI-Generated Article Summary"
+# # Example usage
+# sender_email = "get@alertyd.com"
+# sender_password = "yR2WtPOffk12OJ6t"  # Your IMAP/SMTP password
+# recipient_email = "hroyhong@gmail.com"
+# subject = "AI-Generated Article Summary"
 
-send_markdown_email(sender_email, sender_password, recipient_email, subject, markdown_content)
+# send_markdown_email(sender_email, sender_password, recipient_email, subject, markdown_content)
