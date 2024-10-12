@@ -1,0 +1,857 @@
+
+
+By
+Julian Chokkattu
+
+By
+Lauren Goode
+Business
+Oct 11, 2024 6:00 AM
+OpenAI’s GPT Store Has Left Some Developers in the Lurch
+OpenAI promised payouts to custom GPT creators. Now most are turning to outside sources for revenue.
+Facebook
+X
+Email
+Save Story
+Photo-Illustration: WIRED Staff/Getty Images.
+Save this story
+Save
+Save this story
+Save
+When OpenAI launched
+its platform for custom GPTs, Josh Brent Villocido was stoked to learn that one of his creations would be featured.
+The ascendant AI company announced at its November 2023 developer day that it would launch a store that would host GPTs, custom skins that run on top of its proprietary ChatGPT technology. People can create GPTs for specific tasks, like analyzing spreadsheets, drumming up tattoo designs, or providing customer support. And when OpenAI CEO Sam Altman spoke at the dev day, he touched on potential earning opportunities for developers.
+“Revenue sharing is important to us,” Altman said.” We’re going to pay people who build the most useful and the most-used GPTs a portion of our revenue.”
+In some ways GPTs are similar to apps, though OpenAI makes a distinction between the lightweight GPTs and enterprise applications built on top of its API. OpenAI’s move to create a marketplace for developers was part of its strategy to position itself as not just a chatbot maker but one of the most important
+platforms
+in the AI era.
+Villocido, a 22-year-old med student in the Philippines, saw these GPTs as a way to bring in extra income for himself. They didn’t require advanced coding. He ended up building more than 250 GPTs. His Books GPT, which churns out personalized book recommendations and was promoted by OpenAI at the Store’s launch, is his most popular.
+But 10 months after its launch, it seems that revenue-sharing has been reserved for a tiny number of developers in an invite-only pilot program run by OpenAI. Villocido, despite his efforts, wasn’t included.
+According to Villocido and other small developers who spoke with WIRED, OpenAI’s GPT Store has been a mixed bag. These developers say that OpenAI’s analytics tools are lacking and that they have no real sense of how their GPTs are performing. OpenAI has said that GPT creators outside of the US, like Villocido, are not eligible for revenue-sharing.
+Those who are able to make money from their GPTs usually devise workarounds, like placing affiliate links or advertising within their GPTs. Other small developers have used the success of their GPTs to market themselves while raising outside funding. The AI-powered scientific research app Consensus, which runs a popular GPT, raised millions in venture capital funding in August.
+Most Popular
+Gear
+Capture Your Adventures With Our Favorite Action Cameras
+By
+Scott Gilbertson
+Science
+The Cost of Lightning
+By
+Chris Baraniuk
+Business
+The World’s Biggest Bitcoin Mine Is Rattling This Texas Oil Town
+By
+Joel Khalili
+Gear
+Give Your Back a Break With Our Favorite Office Chairs
+By
+Julian Chokkattu
+OpenAI first announced
+the option for people to build custom GPTs nearly a year ago. The company described GPTs as an automated, low-code way to create specialized experiences on top of ChatGPT, and said it believed impressive GPTs would be created by nontraditional developers like educators, coaches, and tinkerers.
+The Store would be accessible to customers and builders who paid for ChatGPT Plus, Teams, or Enterprise. OpenAI also stated that it would launch a GPT-builder revenue program and that US builders would be paid based on user engagement with their GPTs. It promised to provide details on the criteria for payments.
+The GPT Store officially launched in January 2024. In late March, developer Nick Dobos
+shared on X
+a screenshot of an email that he said he received from OpenAI inviting him to be a part of its revenue-sharing pilot program. Dobos’ coding GPT, Grimoire, is one of the most popular GPTs in the GPT Store, having hosted over 2 million “conversations,” or chats with the app.
+According to the email Dobos shared on X, the pilot program guaranteed him a minimum payout of $1,000 per month, with the potential for additional earnings based on usage. Dobos did not respond to several emails and direct messages asking about his experience with the GPT Store since the pilot program launched.
+When asked about the status of the program, OpenAI pointed WIRED to its
+help page
+, which gave a brief, high-level description of the program and said the company “hope[s] to allow more builders to monetize their GPTs down the line.”
+Like Villocido, Adrian Lin, who lives in Singapore, was optimistic about the GPT Store. Lin is a full-time AI researcher who has spun up an app lab, Adrian AI Lab, on the side. He’s not formally trained in web or mobile app development, so when OpenAI said that making a GPT would require no coding skills, Lin saw it as an opportunity to build and manage his own products.
+It was easy to fine-tune his models based on his intentions, Lin says.
+Lin estimates that Copywriter GPT, his GPT that drafts advertising copy, has had between 500,000 and 600,000 interactions. Like Villocido’s Books GPT, Lin’s has been featured on the homepage of OpenAI’s Store.
+Most Popular
+Gear
+Capture Your Adventures With Our Favorite Action Cameras
+By
+Scott Gilbertson
+Science
+The Cost of Lightning
+By
+Chris Baraniuk
+Business
+The World’s Biggest Bitcoin Mine Is Rattling This Texas Oil Town
+By
+Joel Khalili
+Gear
+Give Your Back a Break With Our Favorite Office Chairs
+By
+Julian Chokkattu
+But Lin can’t say exactly how much traction his GPTs have gotten or how frequently they are used, because OpenAI only provides “rough estimations” to small developers like him. And since he’s in Singapore, he won’t receive any payouts from OpenAI for the usage of his app.
+OpenAI declined to comment on the record for this story or share data on GPT usage.
+OpenAI has indicated that it makes a distinction between GPTs and full-fledged applications, since creating a GPT doesn’t require advanced coding skills, and building an application that uses OpenAI’s technology is more complex (and more expensive). Some of OpenAI’s enterprise clients, like Moderna, do both: Moderna pays for access to OpenAI’s models in order to build its own applications, but has also made more than 750 GPTs for internal use.
+The world’s most highly valued AI “startup” has just closed a $6.6 billion-dollar funding round. It projects that it will generate approximately $3.7 billion in sales this year,
+according to a report
+in The New York Times that cites financial documents provided to potential investors. (It will likely still lose more money than it makes this year.) In June,
+The Information reported
+that most of this revenue comes from various subscription offerings to its chatbots and the fees it charges for access to its API.
+In a press briefing timed to OpenAI’s developer day two weeks ago, OpenAI CPO Kevin Weil said that the company has “seen a lot of uptick in usage of GPTs in general, especially across our enterprise products.”
+“We’ve got customers that build thousands of GPTs internally. So there’s a bunch of usage, and we don’t have any updates on the current product and the program today,” Weil said.
+Despite OpenAI’s opaque
+plans for paying smaller GPT makers and the middling analytics developers say it provides, some GPT makers still feel positive about the GPT Store as a platform.
+Dmitry Khanukov is the creator of SQL Expert, a highly-ranked GPT that he says has served more than 200,000 chat conversations. Like the others who spoke to WIRED for this story, he has never received earnings directly from the OpenAI GPT Store and considers his GPT a “volunteer project.” (Khanukov, who is also cofounder and CTO of a property management company called Dwelly, is based in Florida, but he wasn’t included in OpenAI’s revenue-sharing program.)
+Most Popular
+Gear
+Capture Your Adventures With Our Favorite Action Cameras
+By
+Scott Gilbertson
+Science
+The Cost of Lightning
+By
+Chris Baraniuk
+Business
+The World’s Biggest Bitcoin Mine Is Rattling This Texas Oil Town
+By
+Joel Khalili
+Gear
+Give Your Back a Break With Our Favorite Office Chairs
+By
+Julian Chokkattu
+In a message to WIRED, Khanukov says that OpenAI “doesn't provide any useful statistics” on his GPT’s performance.
+But Khanukov says that his GPT has benefited him in other ways. He’s been able to connect with a new network of people who need to use SQL for their jobs but aren’t engineers by trade. His GPT has earned him clout on LinkedIn; he says he's received around 3,500 new subscribers on the social network since launching his GPT. And he claims another GPT developer offered to buy his SQL GPT, but that he declined the offer because he didn’t want the GPT altered.
+Similarly, Adrian Lin says he appreciates any direct product feedback he has gotten from users and the “attention” it has brought his small app lab. He says he now gets paid to promote the app Notion in his GPT.
+“The way I look at it is, this is relevant to my users since most of them are into digital marketing, and Notion is a tool for productivity and project management,” Lin says.
+For Eric Olson, building a GPT for the OpenAI GPT Store has paid off handsomely.
+His GPT, Consensus, was featured on the Store’s launch day in January alongside Villocido’s Books GPT. The Consensus GPT has had more than 5 million conversations since launch, and it links to Consensus’ own website in every chat.
+This means the GPT has been a marketing channel for the startup, which uses AI to cull information from dense scientific research papers, like a Google Scholar for the AI era. Between 10 and 15 percent of Consensus’ new subscribers come from its GPT. “Our experience is probably more positive than others in the GPT Store, because we’ve managed to stay on the Store’s explore page the entire time,” says Olson.
+This summer, Consensus raised $11.5 million in Series A funding from well-known investors, including Union Square Ventures and Draper Associates.
+As for Villocido, the creator of the Books GPT that was featured in the Store launch, he found he could no longer justify the $20 per month cost of the ChatGPT subscription required to build and maintain his custom GPTs.
+He now collects a modest amount of revenue each month by placing ads in the GPTs he has already created, using a chatbot ad tool called Adzedek. On a good month, he can generate $200 a month in revenue. But he chooses not to funnel that back into ChatGPT.
+
+By
+Lauren Goode
+Business
+Oct 11, 2024 6:00 AM
+OpenAI’s GPT Store Has Left Some Developers in the Lurch
+OpenAI promised payouts to custom GPT creators. Now most are turning to outside sources for revenue.
+Facebook
+X
+Email
+Save Story
+Photo-Illustration: WIRED Staff/Getty Images.
+Save this story
+Save
+Save this story
+Save
+When OpenAI launched
+its platform for custom GPTs, Josh Brent Villocido was stoked to learn that one of his creations would be featured.
+The ascendant AI company announced at its November 2023 developer day that it would launch a store that would host GPTs, custom skins that run on top of its proprietary ChatGPT technology. People can create GPTs for specific tasks, like analyzing spreadsheets, drumming up tattoo designs, or providing customer support. And when OpenAI CEO Sam Altman spoke at the dev day, he touched on potential earning opportunities for developers.
+“Revenue sharing is important to us,” Altman said.” We’re going to pay people who build the most useful and the most-used GPTs a portion of our revenue.”
+In some ways GPTs are similar to apps, though OpenAI makes a distinction between the lightweight GPTs and enterprise applications built on top of its API. OpenAI’s move to create a marketplace for developers was part of its strategy to position itself as not just a chatbot maker but one of the most important
+platforms
+in the AI era.
+Villocido, a 22-year-old med student in the Philippines, saw these GPTs as a way to bring in extra income for himself. They didn’t require advanced coding. He ended up building more than 250 GPTs. His Books GPT, which churns out personalized book recommendations and was promoted by OpenAI at the Store’s launch, is his most popular.
+But 10 months after its launch, it seems that revenue-sharing has been reserved for a tiny number of developers in an invite-only pilot program run by OpenAI. Villocido, despite his efforts, wasn’t included.
+According to Villocido and other small developers who spoke with WIRED, OpenAI’s GPT Store has been a mixed bag. These developers say that OpenAI’s analytics tools are lacking and that they have no real sense of how their GPTs are performing. OpenAI has said that GPT creators outside of the US, like Villocido, are not eligible for revenue-sharing.
+Those who are able to make money from their GPTs usually devise workarounds, like placing affiliate links or advertising within their GPTs. Other small developers have used the success of their GPTs to market themselves while raising outside funding. The AI-powered scientific research app Consensus, which runs a popular GPT, raised millions in venture capital funding in August.
+Most Popular
+Gear
+Capture Your Adventures With Our Favorite Action Cameras
+By
+Scott Gilbertson
+Science
+The Cost of Lightning
+By
+Chris Baraniuk
+Business
+The World’s Biggest Bitcoin Mine Is Rattling This Texas Oil Town
+By
+Joel Khalili
+Gear
+Give Your Back a Break With Our Favorite Office Chairs
+By
+Julian Chokkattu
+OpenAI first announced
+the option for people to build custom GPTs nearly a year ago. The company described GPTs as an automated, low-code way to create specialized experiences on top of ChatGPT, and said it believed impressive GPTs would be created by nontraditional developers like educators, coaches, and tinkerers.
+The Store would be accessible to customers and builders who paid for ChatGPT Plus, Teams, or Enterprise. OpenAI also stated that it would launch a GPT-builder revenue program and that US builders would be paid based on user engagement with their GPTs. It promised to provide details on the criteria for payments.
+The GPT Store officially launched in January 2024. In late March, developer Nick Dobos
+shared on X
+a screenshot of an email that he said he received from OpenAI inviting him to be a part of its revenue-sharing pilot program. Dobos’ coding GPT, Grimoire, is one of the most popular GPTs in the GPT Store, having hosted over 2 million “conversations,” or chats with the app.
+According to the email Dobos shared on X, the pilot program guaranteed him a minimum payout of $1,000 per month, with the potential for additional earnings based on usage. Dobos did not respond to several emails and direct messages asking about his experience with the GPT Store since the pilot program launched.
+When asked about the status of the program, OpenAI pointed WIRED to its
+help page
+, which gave a brief, high-level description of the program and said the company “hope[s] to allow more builders to monetize their GPTs down the line.”
+Like Villocido, Adrian Lin, who lives in Singapore, was optimistic about the GPT Store. Lin is a full-time AI researcher who has spun up an app lab, Adrian AI Lab, on the side. He’s not formally trained in web or mobile app development, so when OpenAI said that making a GPT would require no coding skills, Lin saw it as an opportunity to build and manage his own products.
+It was easy to fine-tune his models based on his intentions, Lin says.
+Lin estimates that Copywriter GPT, his GPT that drafts advertising copy, has had between 500,000 and 600,000 interactions. Like Villocido’s Books GPT, Lin’s has been featured on the homepage of OpenAI’s Store.
+Most Popular
+Gear
+Capture Your Adventures With Our Favorite Action Cameras
+By
+Scott Gilbertson
+Science
+The Cost of Lightning
+By
+Chris Baraniuk
+Business
+The World’s Biggest Bitcoin Mine Is Rattling This Texas Oil Town
+By
+Joel Khalili
+Gear
+Give Your Back a Break With Our Favorite Office Chairs
+By
+Julian Chokkattu
+But Lin can’t say exactly how much traction his GPTs have gotten or how frequently they are used, because OpenAI only provides “rough estimations” to small developers like him. And since he’s in Singapore, he won’t receive any payouts from OpenAI for the usage of his app.
+OpenAI declined to comment on the record for this story or share data on GPT usage.
+OpenAI has indicated that it makes a distinction between GPTs and full-fledged applications, since creating a GPT doesn’t require advanced coding skills, and building an application that uses OpenAI’s technology is more complex (and more expensive). Some of OpenAI’s enterprise clients, like Moderna, do both: Moderna pays for access to OpenAI’s models in order to build its own applications, but has also made more than 750 GPTs for internal use.
+The world’s most highly valued AI “startup” has just closed a $6.6 billion-dollar funding round. It projects that it will generate approximately $3.7 billion in sales this year,
+according to a report
+in The New York Times that cites financial documents provided to potential investors. (It will likely still lose more money than it makes this year.) In June,
+The Information reported
+that most of this revenue comes from various subscription offerings to its chatbots and the fees it charges for access to its API.
+In a press briefing timed to OpenAI’s developer day two weeks ago, OpenAI CPO Kevin Weil said that the company has “seen a lot of uptick in usage of GPTs in general, especially across our enterprise products.”
+“We’ve got customers that build thousands of GPTs internally. So there’s a bunch of usage, and we don’t have any updates on the current product and the program today,” Weil said.
+Despite OpenAI’s opaque
+plans for paying smaller GPT makers and the middling analytics developers say it provides, some GPT makers still feel positive about the GPT Store as a platform.
+Dmitry Khanukov is the creator of SQL Expert, a highly-ranked GPT that he says has served more than 200,000 chat conversations. Like the others who spoke to WIRED for this story, he has never received earnings directly from the OpenAI GPT Store and considers his GPT a “volunteer project.” (Khanukov, who is also cofounder and CTO of a property management company called Dwelly, is based in Florida, but he wasn’t included in OpenAI’s revenue-sharing program.)
+Most Popular
+Gear
+Capture Your Adventures With Our Favorite Action Cameras
+By
+Scott Gilbertson
+Science
+The Cost of Lightning
+By
+Chris Baraniuk
+Business
+The World’s Biggest Bitcoin Mine Is Rattling This Texas Oil Town
+By
+Joel Khalili
+Gear
+Give Your Back a Break With Our Favorite Office Chairs
+By
+Julian Chokkattu
+In a message to WIRED, Khanukov says that OpenAI “doesn't provide any useful statistics” on his GPT’s performance.
+But Khanukov says that his GPT has benefited him in other ways. He’s been able to connect with a new network of people who need to use SQL for their jobs but aren’t engineers by trade. His GPT has earned him clout on LinkedIn; he says he's received around 3,500 new subscribers on the social network since launching his GPT. And he claims another GPT developer offered to buy his SQL GPT, but that he declined the offer because he didn’t want the GPT altered.
+Similarly, Adrian Lin says he appreciates any direct product feedback he has gotten from users and the “attention” it has brought his small app lab. He says he now gets paid to promote the app Notion in his GPT.
+“The way I look at it is, this is relevant to my users since most of them are into digital marketing, and Notion is a tool for productivity and project management,” Lin says.
+For Eric Olson, building a GPT for the OpenAI GPT Store has paid off handsomely.
+His GPT, Consensus, was featured on the Store’s launch day in January alongside Villocido’s Books GPT. The Consensus GPT has had more than 5 million conversations since launch, and it links to Consensus’ own website in every chat.
+This means the GPT has been a marketing channel for the startup, which uses AI to cull information from dense scientific research papers, like a Google Scholar for the AI era. Between 10 and 15 percent of Consensus’ new subscribers come from its GPT. “Our experience is probably more positive than others in the GPT Store, because we’ve managed to stay on the Store’s explore page the entire time,” says Olson.
+This summer, Consensus raised $11.5 million in Series A funding from well-known investors, including Union Square Ventures and Draper Associates.
+As for Villocido, the creator of the Books GPT that was featured in the Store launch, he found he could no longer justify the $20 per month cost of the ChatGPT subscription required to build and maintain his custom GPTs.
+He now collects a modest amount of revenue each month by placing ads in the GPTs he has already created, using a chatbot ad tool called Adzedek. On a good month, he can generate $200 a month in revenue. But he chooses not to funnel that back into ChatGPT.
+You Might Also Like …
+In your inbox:
+The
+best and weirdest stories
+from WIRED’s archive
+Elon Musk
+is a national security risk
+Interview:
+Meredith Whittaker
+is out to prove capitalism wrong
+How do you solve a problem like
+Polestar
+?
+Event:
+Join us for
+The Big Interview
+on December 3 in San Francisco
+Lauren Goode
+is a senior writer at WIRED covering Big Tech, Silicon Valley’s most interesting people, emerging trends in the tech industry, and how the culture of Silicon Valley influences the products we use. Prior to WIRED she worked at The Verge, Recode, and the Wall Street Journal. Please send...
+Read more
+Senior Writer
+X
+Topics
+artificial intelligence
+Startups
+OpenAI
+ChatGPT
+Read More
+Capture Your Adventures With Our Favorite Action Cameras
+Gearing up to shred the slopes or dive into the seas? These photography tools are made for danger.
+Scott Gilbertson
+The Cost of Lightning
+Exactly how climate change will impact lightning isn’t clear, but governments, public bodies, and the military are prepping for stormier weather.
+Chris Baraniuk
+The World’s Biggest Bitcoin Mine Is Rattling This Texas Oil Town
+A cash-strapped city in rural Texas will soon be home to the world’s largest bitcoin mine. Local protesters are “raising hell.”
+Joel Khalili
+Give Your Back a Break With Our Favorite Office Chairs
+Sitting at a desk for hours? Upgrade your WFH setup and work in style with these comfy WIRED-tested seats.
+Julian Chokkattu
+License Plate Readers Are Creating a US-Wide Database of More Than Just Cars
+From Trump campaign signs to Planned Parenthood bumper stickers, license plate readers around the US are creating searchable databases that reveal Americans’ political leanings and more.
+Matt Burgess
+The Best Wi-Fi Routers
+Don’t suffer the buffer. These WIRED-tested systems will deliver reliable internet across your home whatever your needs or budget.
+Simon Hill
+The Best Fitness Trackers and Watches for Everyone
+Whether you’re skiing in the backcountry or trampolining in the backyard, we have an activity tracker for you.
+Adrienne So
+How to Generate an AI Podcast Using Google’s NotebookLM
+A little-known AI notebook tool from Google is going viral for its Audio Overviews that mimic the speech cadence of podcasters. Here’s how to try it out.
+Reece Rogers
+
+Simon Hill
+
+Topics
+artificial intelligence
+Startups
+OpenAI
+ChatGPT
+
+When OpenAI launched
+its platform for custom GPTs, Josh Brent Villocido was stoked to learn that one of his creations would be featured.
+The ascendant AI company announced at its November 2023 developer day that it would launch a store that would host GPTs, custom skins that run on top of its proprietary ChatGPT technology. People can create GPTs for specific tasks, like analyzing spreadsheets, drumming up tattoo designs, or providing customer support. And when OpenAI CEO Sam Altman spoke at the dev day, he touched on potential earning opportunities for developers.
+“Revenue sharing is important to us,” Altman said.” We’re going to pay people who build the most useful and the most-used GPTs a portion of our revenue.”
+In some ways GPTs are similar to apps, though OpenAI makes a distinction between the lightweight GPTs and enterprise applications built on top of its API. OpenAI’s move to create a marketplace for developers was part of its strategy to position itself as not just a chatbot maker but one of the most important
+platforms
+in the AI era.
+Villocido, a 22-year-old med student in the Philippines, saw these GPTs as a way to bring in extra income for himself. They didn’t require advanced coding. He ended up building more than 250 GPTs. His Books GPT, which churns out personalized book recommendations and was promoted by OpenAI at the Store’s launch, is his most popular.
+But 10 months after its launch, it seems that revenue-sharing has been reserved for a tiny number of developers in an invite-only pilot program run by OpenAI. Villocido, despite his efforts, wasn’t included.
+According to Villocido and other small developers who spoke with WIRED, OpenAI’s GPT Store has been a mixed bag. These developers say that OpenAI’s analytics tools are lacking and that they have no real sense of how their GPTs are performing. OpenAI has said that GPT creators outside of the US, like Villocido, are not eligible for revenue-sharing.
+Those who are able to make money from their GPTs usually devise workarounds, like placing affiliate links or advertising within their GPTs. Other small developers have used the success of their GPTs to market themselves while raising outside funding. The AI-powered scientific research app Consensus, which runs a popular GPT, raised millions in venture capital funding in August.
+
+Julian Chokkattu
+
+By
+Joel Khalili
+
+Gear
+Give Your Back a Break With Our Favorite Office Chairs
+By
+Julian Chokkattu
+
+The Best Fitness Trackers and Watches for Everyone
+Whether you’re skiing in the backcountry or trampolining in the backyard, we have an activity tracker for you.
+Adrienne So
+
+Save this story
+Save
+Save this story
+Save
+When OpenAI launched
+its platform for custom GPTs, Josh Brent Villocido was stoked to learn that one of his creations would be featured.
+The ascendant AI company announced at its November 2023 developer day that it would launch a store that would host GPTs, custom skins that run on top of its proprietary ChatGPT technology. People can create GPTs for specific tasks, like analyzing spreadsheets, drumming up tattoo designs, or providing customer support. And when OpenAI CEO Sam Altman spoke at the dev day, he touched on potential earning opportunities for developers.
+“Revenue sharing is important to us,” Altman said.” We’re going to pay people who build the most useful and the most-used GPTs a portion of our revenue.”
+In some ways GPTs are similar to apps, though OpenAI makes a distinction between the lightweight GPTs and enterprise applications built on top of its API. OpenAI’s move to create a marketplace for developers was part of its strategy to position itself as not just a chatbot maker but one of the most important
+platforms
+in the AI era.
+Villocido, a 22-year-old med student in the Philippines, saw these GPTs as a way to bring in extra income for himself. They didn’t require advanced coding. He ended up building more than 250 GPTs. His Books GPT, which churns out personalized book recommendations and was promoted by OpenAI at the Store’s launch, is his most popular.
+But 10 months after its launch, it seems that revenue-sharing has been reserved for a tiny number of developers in an invite-only pilot program run by OpenAI. Villocido, despite his efforts, wasn’t included.
+According to Villocido and other small developers who spoke with WIRED, OpenAI’s GPT Store has been a mixed bag. These developers say that OpenAI’s analytics tools are lacking and that they have no real sense of how their GPTs are performing. OpenAI has said that GPT creators outside of the US, like Villocido, are not eligible for revenue-sharing.
+Those who are able to make money from their GPTs usually devise workarounds, like placing affiliate links or advertising within their GPTs. Other small developers have used the success of their GPTs to market themselves while raising outside funding. The AI-powered scientific research app Consensus, which runs a popular GPT, raised millions in venture capital funding in August.
+Most Popular
+Gear
+Capture Your Adventures With Our Favorite Action Cameras
+By
+Scott Gilbertson
+Science
+The Cost of Lightning
+By
+Chris Baraniuk
+Business
+The World’s Biggest Bitcoin Mine Is Rattling This Texas Oil Town
+By
+Joel Khalili
+Gear
+Give Your Back a Break With Our Favorite Office Chairs
+By
+Julian Chokkattu
+OpenAI first announced
+the option for people to build custom GPTs nearly a year ago. The company described GPTs as an automated, low-code way to create specialized experiences on top of ChatGPT, and said it believed impressive GPTs would be created by nontraditional developers like educators, coaches, and tinkerers.
+The Store would be accessible to customers and builders who paid for ChatGPT Plus, Teams, or Enterprise. OpenAI also stated that it would launch a GPT-builder revenue program and that US builders would be paid based on user engagement with their GPTs. It promised to provide details on the criteria for payments.
+The GPT Store officially launched in January 2024. In late March, developer Nick Dobos
+shared on X
+a screenshot of an email that he said he received from OpenAI inviting him to be a part of its revenue-sharing pilot program. Dobos’ coding GPT, Grimoire, is one of the most popular GPTs in the GPT Store, having hosted over 2 million “conversations,” or chats with the app.
+According to the email Dobos shared on X, the pilot program guaranteed him a minimum payout of $1,000 per month, with the potential for additional earnings based on usage. Dobos did not respond to several emails and direct messages asking about his experience with the GPT Store since the pilot program launched.
+When asked about the status of the program, OpenAI pointed WIRED to its
+help page
+, which gave a brief, high-level description of the program and said the company “hope[s] to allow more builders to monetize their GPTs down the line.”
+Like Villocido, Adrian Lin, who lives in Singapore, was optimistic about the GPT Store. Lin is a full-time AI researcher who has spun up an app lab, Adrian AI Lab, on the side. He’s not formally trained in web or mobile app development, so when OpenAI said that making a GPT would require no coding skills, Lin saw it as an opportunity to build and manage his own products.
+It was easy to fine-tune his models based on his intentions, Lin says.
+Lin estimates that Copywriter GPT, his GPT that drafts advertising copy, has had between 500,000 and 600,000 interactions. Like Villocido’s Books GPT, Lin’s has been featured on the homepage of OpenAI’s Store.
+Most Popular
+Gear
+Capture Your Adventures With Our Favorite Action Cameras
+By
+Scott Gilbertson
+Science
+The Cost of Lightning
+By
+Chris Baraniuk
+Business
+The World’s Biggest Bitcoin Mine Is Rattling This Texas Oil Town
+By
+Joel Khalili
+Gear
+Give Your Back a Break With Our Favorite Office Chairs
+By
+Julian Chokkattu
+But Lin can’t say exactly how much traction his GPTs have gotten or how frequently they are used, because OpenAI only provides “rough estimations” to small developers like him. And since he’s in Singapore, he won’t receive any payouts from OpenAI for the usage of his app.
+OpenAI declined to comment on the record for this story or share data on GPT usage.
+OpenAI has indicated that it makes a distinction between GPTs and full-fledged applications, since creating a GPT doesn’t require advanced coding skills, and building an application that uses OpenAI’s technology is more complex (and more expensive). Some of OpenAI’s enterprise clients, like Moderna, do both: Moderna pays for access to OpenAI’s models in order to build its own applications, but has also made more than 750 GPTs for internal use.
+The world’s most highly valued AI “startup” has just closed a $6.6 billion-dollar funding round. It projects that it will generate approximately $3.7 billion in sales this year,
+according to a report
+in The New York Times that cites financial documents provided to potential investors. (It will likely still lose more money than it makes this year.) In June,
+The Information reported
+that most of this revenue comes from various subscription offerings to its chatbots and the fees it charges for access to its API.
+In a press briefing timed to OpenAI’s developer day two weeks ago, OpenAI CPO Kevin Weil said that the company has “seen a lot of uptick in usage of GPTs in general, especially across our enterprise products.”
+“We’ve got customers that build thousands of GPTs internally. So there’s a bunch of usage, and we don’t have any updates on the current product and the program today,” Weil said.
+Despite OpenAI’s opaque
+plans for paying smaller GPT makers and the middling analytics developers say it provides, some GPT makers still feel positive about the GPT Store as a platform.
+Dmitry Khanukov is the creator of SQL Expert, a highly-ranked GPT that he says has served more than 200,000 chat conversations. Like the others who spoke to WIRED for this story, he has never received earnings directly from the OpenAI GPT Store and considers his GPT a “volunteer project.” (Khanukov, who is also cofounder and CTO of a property management company called Dwelly, is based in Florida, but he wasn’t included in OpenAI’s revenue-sharing program.)
+Most Popular
+Gear
+Capture Your Adventures With Our Favorite Action Cameras
+By
+Scott Gilbertson
+Science
+The Cost of Lightning
+By
+Chris Baraniuk
+Business
+The World’s Biggest Bitcoin Mine Is Rattling This Texas Oil Town
+By
+Joel Khalili
+Gear
+Give Your Back a Break With Our Favorite Office Chairs
+By
+Julian Chokkattu
+In a message to WIRED, Khanukov says that OpenAI “doesn't provide any useful statistics” on his GPT’s performance.
+But Khanukov says that his GPT has benefited him in other ways. He’s been able to connect with a new network of people who need to use SQL for their jobs but aren’t engineers by trade. His GPT has earned him clout on LinkedIn; he says he's received around 3,500 new subscribers on the social network since launching his GPT. And he claims another GPT developer offered to buy his SQL GPT, but that he declined the offer because he didn’t want the GPT altered.
+Similarly, Adrian Lin says he appreciates any direct product feedback he has gotten from users and the “attention” it has brought his small app lab. He says he now gets paid to promote the app Notion in his GPT.
+“The way I look at it is, this is relevant to my users since most of them are into digital marketing, and Notion is a tool for productivity and project management,” Lin says.
+For Eric Olson, building a GPT for the OpenAI GPT Store has paid off handsomely.
+His GPT, Consensus, was featured on the Store’s launch day in January alongside Villocido’s Books GPT. The Consensus GPT has had more than 5 million conversations since launch, and it links to Consensus’ own website in every chat.
+This means the GPT has been a marketing channel for the startup, which uses AI to cull information from dense scientific research papers, like a Google Scholar for the AI era. Between 10 and 15 percent of Consensus’ new subscribers come from its GPT. “Our experience is probably more positive than others in the GPT Store, because we’ve managed to stay on the Store’s explore page the entire time,” says Olson.
+This summer, Consensus raised $11.5 million in Series A funding from well-known investors, including Union Square Ventures and Draper Associates.
+As for Villocido, the creator of the Books GPT that was featured in the Store launch, he found he could no longer justify the $20 per month cost of the ChatGPT subscription required to build and maintain his custom GPTs.
+He now collects a modest amount of revenue each month by placing ads in the GPTs he has already created, using a chatbot ad tool called Adzedek. On a good month, he can generate $200 a month in revenue. But he chooses not to funnel that back into ChatGPT.
+
+Skip to main content
+Open Navigation Menu
+Menu
+Story Saved
+To revisit this article, visit My Profile, then
+View saved stories
+.
+Close Alert
+Close
+OpenAI’s GPT Store Has Left Some Developers in the Lurch
+Security
+Politics
+Gear
+The Big Story
+Business
+Science
+Culture
+Ideas
+Merch
+More
+Chevron
+Search
+Search
+Security
+Politics
+Gear
+The Big Story
+Business
+Science
+Culture
+Ideas
+Merch
+Podcasts
+Video
+Newsletters
+Magazine
+Travel
+Steven Levy's Plaintext Column
+WIRED Classics from the Archive
+Events
+WIRED Insider
+WIRED Consulting
+Jobs
+Coupons
+By
+Lauren Goode
+Business
+Oct 11, 2024 6:00 AM
+OpenAI’s GPT Store Has Left Some Developers in the Lurch
+OpenAI promised payouts to custom GPT creators. Now most are turning to outside sources for revenue.
+Facebook
+X
+Email
+Save Story
+Photo-Illustration: WIRED Staff/Getty Images.
+Save this story
+Save
+Save this story
+Save
+When OpenAI launched
+its platform for custom GPTs, Josh Brent Villocido was stoked to learn that one of his creations would be featured.
+The ascendant AI company announced at its November 2023 developer day that it would launch a store that would host GPTs, custom skins that run on top of its proprietary ChatGPT technology. People can create GPTs for specific tasks, like analyzing spreadsheets, drumming up tattoo designs, or providing customer support. And when OpenAI CEO Sam Altman spoke at the dev day, he touched on potential earning opportunities for developers.
+“Revenue sharing is important to us,” Altman said.” We’re going to pay people who build the most useful and the most-used GPTs a portion of our revenue.”
+In some ways GPTs are similar to apps, though OpenAI makes a distinction between the lightweight GPTs and enterprise applications built on top of its API. OpenAI’s move to create a marketplace for developers was part of its strategy to position itself as not just a chatbot maker but one of the most important
+platforms
+in the AI era.
+Villocido, a 22-year-old med student in the Philippines, saw these GPTs as a way to bring in extra income for himself. They didn’t require advanced coding. He ended up building more than 250 GPTs. His Books GPT, which churns out personalized book recommendations and was promoted by OpenAI at the Store’s launch, is his most popular.
+But 10 months after its launch, it seems that revenue-sharing has been reserved for a tiny number of developers in an invite-only pilot program run by OpenAI. Villocido, despite his efforts, wasn’t included.
+According to Villocido and other small developers who spoke with WIRED, OpenAI’s GPT Store has been a mixed bag. These developers say that OpenAI’s analytics tools are lacking and that they have no real sense of how their GPTs are performing. OpenAI has said that GPT creators outside of the US, like Villocido, are not eligible for revenue-sharing.
+Those who are able to make money from their GPTs usually devise workarounds, like placing affiliate links or advertising within their GPTs. Other small developers have used the success of their GPTs to market themselves while raising outside funding. The AI-powered scientific research app Consensus, which runs a popular GPT, raised millions in venture capital funding in August.
+Most Popular
+Gear
+Capture Your Adventures With Our Favorite Action Cameras
+By
+Scott Gilbertson
+Science
+The Cost of Lightning
+By
+Chris Baraniuk
+Business
+The World’s Biggest Bitcoin Mine Is Rattling This Texas Oil Town
+By
+Joel Khalili
+Gear
+Give Your Back a Break With Our Favorite Office Chairs
+By
+Julian Chokkattu
+OpenAI first announced
+the option for people to build custom GPTs nearly a year ago. The company described GPTs as an automated, low-code way to create specialized experiences on top of ChatGPT, and said it believed impressive GPTs would be created by nontraditional developers like educators, coaches, and tinkerers.
+The Store would be accessible to customers and builders who paid for ChatGPT Plus, Teams, or Enterprise. OpenAI also stated that it would launch a GPT-builder revenue program and that US builders would be paid based on user engagement with their GPTs. It promised to provide details on the criteria for payments.
+The GPT Store officially launched in January 2024. In late March, developer Nick Dobos
+shared on X
+a screenshot of an email that he said he received from OpenAI inviting him to be a part of its revenue-sharing pilot program. Dobos’ coding GPT, Grimoire, is one of the most popular GPTs in the GPT Store, having hosted over 2 million “conversations,” or chats with the app.
+According to the email Dobos shared on X, the pilot program guaranteed him a minimum payout of $1,000 per month, with the potential for additional earnings based on usage. Dobos did not respond to several emails and direct messages asking about his experience with the GPT Store since the pilot program launched.
+When asked about the status of the program, OpenAI pointed WIRED to its
+help page
+, which gave a brief, high-level description of the program and said the company “hope[s] to allow more builders to monetize their GPTs down the line.”
+Like Villocido, Adrian Lin, who lives in Singapore, was optimistic about the GPT Store. Lin is a full-time AI researcher who has spun up an app lab, Adrian AI Lab, on the side. He’s not formally trained in web or mobile app development, so when OpenAI said that making a GPT would require no coding skills, Lin saw it as an opportunity to build and manage his own products.
+It was easy to fine-tune his models based on his intentions, Lin says.
+Lin estimates that Copywriter GPT, his GPT that drafts advertising copy, has had between 500,000 and 600,000 interactions. Like Villocido’s Books GPT, Lin’s has been featured on the homepage of OpenAI’s Store.
+Most Popular
+Gear
+Capture Your Adventures With Our Favorite Action Cameras
+By
+Scott Gilbertson
+Science
+The Cost of Lightning
+By
+Chris Baraniuk
+Business
+The World’s Biggest Bitcoin Mine Is Rattling This Texas Oil Town
+By
+Joel Khalili
+Gear
+Give Your Back a Break With Our Favorite Office Chairs
+By
+Julian Chokkattu
+But Lin can’t say exactly how much traction his GPTs have gotten or how frequently they are used, because OpenAI only provides “rough estimations” to small developers like him. And since he’s in Singapore, he won’t receive any payouts from OpenAI for the usage of his app.
+OpenAI declined to comment on the record for this story or share data on GPT usage.
+OpenAI has indicated that it makes a distinction between GPTs and full-fledged applications, since creating a GPT doesn’t require advanced coding skills, and building an application that uses OpenAI’s technology is more complex (and more expensive). Some of OpenAI’s enterprise clients, like Moderna, do both: Moderna pays for access to OpenAI’s models in order to build its own applications, but has also made more than 750 GPTs for internal use.
+The world’s most highly valued AI “startup” has just closed a $6.6 billion-dollar funding round. It projects that it will generate approximately $3.7 billion in sales this year,
+according to a report
+in The New York Times that cites financial documents provided to potential investors. (It will likely still lose more money than it makes this year.) In June,
+The Information reported
+that most of this revenue comes from various subscription offerings to its chatbots and the fees it charges for access to its API.
+In a press briefing timed to OpenAI’s developer day two weeks ago, OpenAI CPO Kevin Weil said that the company has “seen a lot of uptick in usage of GPTs in general, especially across our enterprise products.”
+“We’ve got customers that build thousands of GPTs internally. So there’s a bunch of usage, and we don’t have any updates on the current product and the program today,” Weil said.
+Despite OpenAI’s opaque
+plans for paying smaller GPT makers and the middling analytics developers say it provides, some GPT makers still feel positive about the GPT Store as a platform.
+Dmitry Khanukov is the creator of SQL Expert, a highly-ranked GPT that he says has served more than 200,000 chat conversations. Like the others who spoke to WIRED for this story, he has never received earnings directly from the OpenAI GPT Store and considers his GPT a “volunteer project.” (Khanukov, who is also cofounder and CTO of a property management company called Dwelly, is based in Florida, but he wasn’t included in OpenAI’s revenue-sharing program.)
+Most Popular
+Gear
+Capture Your Adventures With Our Favorite Action Cameras
+By
+Scott Gilbertson
+Science
+The Cost of Lightning
+By
+Chris Baraniuk
+Business
+The World’s Biggest Bitcoin Mine Is Rattling This Texas Oil Town
+By
+Joel Khalili
+Gear
+Give Your Back a Break With Our Favorite Office Chairs
+By
+Julian Chokkattu
+In a message to WIRED, Khanukov says that OpenAI “doesn't provide any useful statistics” on his GPT’s performance.
+But Khanukov says that his GPT has benefited him in other ways. He’s been able to connect with a new network of people who need to use SQL for their jobs but aren’t engineers by trade. His GPT has earned him clout on LinkedIn; he says he's received around 3,500 new subscribers on the social network since launching his GPT. And he claims another GPT developer offered to buy his SQL GPT, but that he declined the offer because he didn’t want the GPT altered.
+Similarly, Adrian Lin says he appreciates any direct product feedback he has gotten from users and the “attention” it has brought his small app lab. He says he now gets paid to promote the app Notion in his GPT.
+“The way I look at it is, this is relevant to my users since most of them are into digital marketing, and Notion is a tool for productivity and project management,” Lin says.
+For Eric Olson, building a GPT for the OpenAI GPT Store has paid off handsomely.
+His GPT, Consensus, was featured on the Store’s launch day in January alongside Villocido’s Books GPT. The Consensus GPT has had more than 5 million conversations since launch, and it links to Consensus’ own website in every chat.
+This means the GPT has been a marketing channel for the startup, which uses AI to cull information from dense scientific research papers, like a Google Scholar for the AI era. Between 10 and 15 percent of Consensus’ new subscribers come from its GPT. “Our experience is probably more positive than others in the GPT Store, because we’ve managed to stay on the Store’s explore page the entire time,” says Olson.
+This summer, Consensus raised $11.5 million in Series A funding from well-known investors, including Union Square Ventures and Draper Associates.
+As for Villocido, the creator of the Books GPT that was featured in the Store launch, he found he could no longer justify the $20 per month cost of the ChatGPT subscription required to build and maintain his custom GPTs.
+He now collects a modest amount of revenue each month by placing ads in the GPTs he has already created, using a chatbot ad tool called Adzedek. On a good month, he can generate $200 a month in revenue. But he chooses not to funnel that back into ChatGPT.
+You Might Also Like …
+In your inbox:
+The
+best and weirdest stories
+from WIRED’s archive
+Elon Musk
+is a national security risk
+Interview:
+Meredith Whittaker
+is out to prove capitalism wrong
+How do you solve a problem like
+Polestar
+?
+Event:
+Join us for
+The Big Interview
+on December 3 in San Francisco
+Lauren Goode
+is a senior writer at WIRED covering Big Tech, Silicon Valley’s most interesting people, emerging trends in the tech industry, and how the culture of Silicon Valley influences the products we use. Prior to WIRED she worked at The Verge, Recode, and the Wall Street Journal. Please send...
+Read more
+Senior Writer
+X
+Topics
+artificial intelligence
+Startups
+OpenAI
+ChatGPT
+Read More
+Capture Your Adventures With Our Favorite Action Cameras
+Gearing up to shred the slopes or dive into the seas? These photography tools are made for danger.
+Scott Gilbertson
+The Cost of Lightning
+Exactly how climate change will impact lightning isn’t clear, but governments, public bodies, and the military are prepping for stormier weather.
+Chris Baraniuk
+The World’s Biggest Bitcoin Mine Is Rattling This Texas Oil Town
+A cash-strapped city in rural Texas will soon be home to the world’s largest bitcoin mine. Local protesters are “raising hell.”
+Joel Khalili
+Give Your Back a Break With Our Favorite Office Chairs
+Sitting at a desk for hours? Upgrade your WFH setup and work in style with these comfy WIRED-tested seats.
+Julian Chokkattu
+License Plate Readers Are Creating a US-Wide Database of More Than Just Cars
+From Trump campaign signs to Planned Parenthood bumper stickers, license plate readers around the US are creating searchable databases that reveal Americans’ political leanings and more.
+Matt Burgess
+The Best Wi-Fi Routers
+Don’t suffer the buffer. These WIRED-tested systems will deliver reliable internet across your home whatever your needs or budget.
+Simon Hill
+The Best Fitness Trackers and Watches for Everyone
+Whether you’re skiing in the backcountry or trampolining in the backyard, we have an activity tracker for you.
+Adrienne So
+How to Generate an AI Podcast Using Google’s NotebookLM
+A little-known AI notebook tool from Google is going viral for its Audio Overviews that mimic the speech cadence of podcasters. Here’s how to try it out.
+Reece Rogers
+WIRED is where tomorrow is realized. It is the essential source of information and ideas that make sense of a world in constant transformation. The WIRED conversation illuminates how technology is changing every aspect of our lives—from culture to business, science to design. The breakthroughs and innovations that we uncover lead to new ways of thinking, new connections, and new industries.
+More From WIRED
+Subscribe
+Newsletters
+FAQ
+WIRED Staff
+Editorial Standards
+Archive
+RSS
+Accessibility Help
+Prime Day
+Reviews and Guides
+Reviews
+Buying Guides
+Mattresses
+Electric Bikes
+Soundbars
+Streaming Guides
+Wearables
+TVs
+Coupons
+Code Guarantee
+Advertise
+Contact Us
+Customer Care
+Jobs
+Press Center
+Condé Nast Store
+User Agreement
+Privacy Policy
+Your California Privacy Rights
+©
+2024
+Condé Nast. All rights reserved.
+WIRED
+may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+Ad Choices
+Select international site
+United States
+LargeChevron
+Italia
+Japón
+Czech Republic & Slovakia
+Facebook
+X
+Pinterest
+YouTube
+Instagram
+Tiktok
+
+Lauren Goode
+is a senior writer at WIRED covering Big Tech, Silicon Valley’s most interesting people, emerging trends in the tech industry, and how the culture of Silicon Valley influences the products we use. Prior to WIRED she worked at The Verge, Recode, and the Wall Street Journal. Please send...
+Read more
+Senior Writer
+X
+
+Science
+The Cost of Lightning
+By
+Chris Baraniuk
+
+In a message to WIRED, Khanukov says that OpenAI “doesn't provide any useful statistics” on his GPT’s performance.
+But Khanukov says that his GPT has benefited him in other ways. He’s been able to connect with a new network of people who need to use SQL for their jobs but aren’t engineers by trade. His GPT has earned him clout on LinkedIn; he says he's received around 3,500 new subscribers on the social network since launching his GPT. And he claims another GPT developer offered to buy his SQL GPT, but that he declined the offer because he didn’t want the GPT altered.
+Similarly, Adrian Lin says he appreciates any direct product feedback he has gotten from users and the “attention” it has brought his small app lab. He says he now gets paid to promote the app Notion in his GPT.
+“The way I look at it is, this is relevant to my users since most of them are into digital marketing, and Notion is a tool for productivity and project management,” Lin says.
+For Eric Olson, building a GPT for the OpenAI GPT Store has paid off handsomely.
+His GPT, Consensus, was featured on the Store’s launch day in January alongside Villocido’s Books GPT. The Consensus GPT has had more than 5 million conversations since launch, and it links to Consensus’ own website in every chat.
+This means the GPT has been a marketing channel for the startup, which uses AI to cull information from dense scientific research papers, like a Google Scholar for the AI era. Between 10 and 15 percent of Consensus’ new subscribers come from its GPT. “Our experience is probably more positive than others in the GPT Store, because we’ve managed to stay on the Store’s explore page the entire time,” says Olson.
+This summer, Consensus raised $11.5 million in Series A funding from well-known investors, including Union Square Ventures and Draper Associates.
+As for Villocido, the creator of the Books GPT that was featured in the Store launch, he found he could no longer justify the $20 per month cost of the ChatGPT subscription required to build and maintain his custom GPTs.
+He now collects a modest amount of revenue each month by placing ads in the GPTs he has already created, using a chatbot ad tool called Adzedek. On a good month, he can generate $200 a month in revenue. But he chooses not to funnel that back into ChatGPT.
+
+Capture Your Adventures With Our Favorite Action Cameras
+Gearing up to shred the slopes or dive into the seas? These photography tools are made for danger.
+Scott Gilbertson
+
+Give Your Back a Break With Our Favorite Office Chairs
+Sitting at a desk for hours? Upgrade your WFH setup and work in style with these comfy WIRED-tested seats.
+Julian Chokkattu
+
+License Plate Readers Are Creating a US-Wide Database of More Than Just Cars
+From Trump campaign signs to Planned Parenthood bumper stickers, license plate readers around the US are creating searchable databases that reveal Americans’ political leanings and more.
+Matt Burgess
+
+You Might Also Like …
+In your inbox:
+The
+best and weirdest stories
+from WIRED’s archive
+Elon Musk
+is a national security risk
+Interview:
+Meredith Whittaker
+is out to prove capitalism wrong
+How do you solve a problem like
+Polestar
+?
+Event:
+Join us for
+The Big Interview
+on December 3 in San Francisco
+Lauren Goode
+is a senior writer at WIRED covering Big Tech, Silicon Valley’s most interesting people, emerging trends in the tech industry, and how the culture of Silicon Valley influences the products we use. Prior to WIRED she worked at The Verge, Recode, and the Wall Street Journal. Please send...
+Read more
+Senior Writer
+X
+Topics
+artificial intelligence
+Startups
+OpenAI
+ChatGPT
+Read More
+Capture Your Adventures With Our Favorite Action Cameras
+Gearing up to shred the slopes or dive into the seas? These photography tools are made for danger.
+Scott Gilbertson
+The Cost of Lightning
+Exactly how climate change will impact lightning isn’t clear, but governments, public bodies, and the military are prepping for stormier weather.
+Chris Baraniuk
+The World’s Biggest Bitcoin Mine Is Rattling This Texas Oil Town
+A cash-strapped city in rural Texas will soon be home to the world’s largest bitcoin mine. Local protesters are “raising hell.”
+Joel Khalili
+Give Your Back a Break With Our Favorite Office Chairs
+Sitting at a desk for hours? Upgrade your WFH setup and work in style with these comfy WIRED-tested seats.
+Julian Chokkattu
+License Plate Readers Are Creating a US-Wide Database of More Than Just Cars
+From Trump campaign signs to Planned Parenthood bumper stickers, license plate readers around the US are creating searchable databases that reveal Americans’ political leanings and more.
+Matt Burgess
+The Best Wi-Fi Routers
+Don’t suffer the buffer. These WIRED-tested systems will deliver reliable internet across your home whatever your needs or budget.
+Simon Hill
+The Best Fitness Trackers and Watches for Everyone
+Whether you’re skiing in the backcountry or trampolining in the backyard, we have an activity tracker for you.
+Adrienne So
+How to Generate an AI Podcast Using Google’s NotebookLM
+A little-known AI notebook tool from Google is going viral for its Audio Overviews that mimic the speech cadence of podcasters. Here’s how to try it out.
+Reece Rogers
+
+Reece Rogers
+
+You Might Also Like …
+In your inbox:
+The
+best and weirdest stories
+from WIRED’s archive
+Elon Musk
+is a national security risk
+Interview:
+Meredith Whittaker
+is out to prove capitalism wrong
+How do you solve a problem like
+Polestar
+?
+Event:
+Join us for
+The Big Interview
+on December 3 in San Francisco
+
+The World’s Biggest Bitcoin Mine Is Rattling This Texas Oil Town
+A cash-strapped city in rural Texas will soon be home to the world’s largest bitcoin mine. Local protesters are “raising hell.”
+Joel Khalili
+
+OpenAI first announced
+the option for people to build custom GPTs nearly a year ago. The company described GPTs as an automated, low-code way to create specialized experiences on top of ChatGPT, and said it believed impressive GPTs would be created by nontraditional developers like educators, coaches, and tinkerers.
+The Store would be accessible to customers and builders who paid for ChatGPT Plus, Teams, or Enterprise. OpenAI also stated that it would launch a GPT-builder revenue program and that US builders would be paid based on user engagement with their GPTs. It promised to provide details on the criteria for payments.
+The GPT Store officially launched in January 2024. In late March, developer Nick Dobos
+shared on X
+a screenshot of an email that he said he received from OpenAI inviting him to be a part of its revenue-sharing pilot program. Dobos’ coding GPT, Grimoire, is one of the most popular GPTs in the GPT Store, having hosted over 2 million “conversations,” or chats with the app.
+According to the email Dobos shared on X, the pilot program guaranteed him a minimum payout of $1,000 per month, with the potential for additional earnings based on usage. Dobos did not respond to several emails and direct messages asking about his experience with the GPT Store since the pilot program launched.
+When asked about the status of the program, OpenAI pointed WIRED to its
+help page
+, which gave a brief, high-level description of the program and said the company “hope[s] to allow more builders to monetize their GPTs down the line.”
+Like Villocido, Adrian Lin, who lives in Singapore, was optimistic about the GPT Store. Lin is a full-time AI researcher who has spun up an app lab, Adrian AI Lab, on the side. He’s not formally trained in web or mobile app development, so when OpenAI said that making a GPT would require no coding skills, Lin saw it as an opportunity to build and manage his own products.
+It was easy to fine-tune his models based on his intentions, Lin says.
+Lin estimates that Copywriter GPT, his GPT that drafts advertising copy, has had between 500,000 and 600,000 interactions. Like Villocido’s Books GPT, Lin’s has been featured on the homepage of OpenAI’s Store.
+
+Matt Burgess
+
+By
+Scott Gilbertson
+
+The Cost of Lightning
+Exactly how climate change will impact lightning isn’t clear, but governments, public bodies, and the military are prepping for stormier weather.
+Chris Baraniuk
+
+Chris Baraniuk
+
+By
+Chris Baraniuk
+
+Adrienne So
+
+How to Generate an AI Podcast Using Google’s NotebookLM
+A little-known AI notebook tool from Google is going viral for its Audio Overviews that mimic the speech cadence of podcasters. Here’s how to try it out.
+Reece Rogers
+
+Business
+The World’s Biggest Bitcoin Mine Is Rattling This Texas Oil Town
+By
+Joel Khalili
+
+But Lin can’t say exactly how much traction his GPTs have gotten or how frequently they are used, because OpenAI only provides “rough estimations” to small developers like him. And since he’s in Singapore, he won’t receive any payouts from OpenAI for the usage of his app.
+OpenAI declined to comment on the record for this story or share data on GPT usage.
+OpenAI has indicated that it makes a distinction between GPTs and full-fledged applications, since creating a GPT doesn’t require advanced coding skills, and building an application that uses OpenAI’s technology is more complex (and more expensive). Some of OpenAI’s enterprise clients, like Moderna, do both: Moderna pays for access to OpenAI’s models in order to build its own applications, but has also made more than 750 GPTs for internal use.
+The world’s most highly valued AI “startup” has just closed a $6.6 billion-dollar funding round. It projects that it will generate approximately $3.7 billion in sales this year,
+according to a report
+in The New York Times that cites financial documents provided to potential investors. (It will likely still lose more money than it makes this year.) In June,
+The Information reported
+that most of this revenue comes from various subscription offerings to its chatbots and the fees it charges for access to its API.
+In a press briefing timed to OpenAI’s developer day two weeks ago, OpenAI CPO Kevin Weil said that the company has “seen a lot of uptick in usage of GPTs in general, especially across our enterprise products.”
+“We’ve got customers that build thousands of GPTs internally. So there’s a bunch of usage, and we don’t have any updates on the current product and the program today,” Weil said.
+Despite OpenAI’s opaque
+plans for paying smaller GPT makers and the middling analytics developers say it provides, some GPT makers still feel positive about the GPT Store as a platform.
+Dmitry Khanukov is the creator of SQL Expert, a highly-ranked GPT that he says has served more than 200,000 chat conversations. Like the others who spoke to WIRED for this story, he has never received earnings directly from the OpenAI GPT Store and considers his GPT a “volunteer project.” (Khanukov, who is also cofounder and CTO of a property management company called Dwelly, is based in Florida, but he wasn’t included in OpenAI’s revenue-sharing program.)
+
+Scott Gilbertson
+
+Joel Khalili
+
+Gear
+Capture Your Adventures With Our Favorite Action Cameras
+By
+Scott Gilbertson
+
+The Best Wi-Fi Routers
+Don’t suffer the buffer. These WIRED-tested systems will deliver reliable internet across your home whatever your needs or budget.
+Simon Hill

@@ -8,7 +8,7 @@ sys.path.insert(0, project_root)
 from app.fetch_content.web_scraper import fetch_web_content
 
 def test_fetch_web_content():
-    url = "https://www.bnnbloomberg.ca/business/technology/2024/10/09/openai-fires-back-at-musk-over-altruism-versus-greed-lawsuit/"
+    url = "https://www.youtube.com/watch?v=1bUy-1hGZpI&t=197s"
     content = fetch_web_content(url)
     print(content)
     return content

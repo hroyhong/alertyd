@@ -1,0 +1,21 @@
+Title: {title}
+Content: {content}
+Link: {link}
+
+Please provide the following information in nice markdown format:
+1. Provide 3-5 tags for this article, separated by commas. [Tags]
+2. What type of article is this (e.g., news, opinion, review, etc.)? [Article type]
+3. On a scale of 1-10, how valuable is this article to someone interested in the topic? Provide only the numeric [Score]
+4. Please use a short paragraph and bullet points to provide a concise and comprehensive summary of the given text. Capture the key takeaways of the text. [Summary]
+5. What is the name of the website that published this article? [Website name]
+
+
+Format your response as follows:
+## [title](link) in a markdown link format
+**Tags:** tag1, tag2, tag3
+**Type:** Article type
+**Score:** Score
+
+[Summary]
+
+Source: [Website name](website homepage link)

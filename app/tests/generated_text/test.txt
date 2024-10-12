@@ -1,0 +1,12 @@
+## [Apple AI researchers question OpenAI's claims about o1's reasoning capabilities](https://the-decoder.com/apple-ai-researchers-question-openais-claims-about-o1s-reasoning-capabilities/)
+**Tags:** AI research, OpenAI, reasoning capabilities, Apple, language models  
+**Type:** News  
+**Score:** 8  
+
+Apple AI researchers have expressed skepticism towards OpenAI's assertions regarding the reasoning capabilities of their AI model, o1. Key points include:  
+
+- A study indicated significant reasoning flaws in smaller AI language models.
+- Researchers highlight the need for more robust assessments of AI capabilities.
+- The ongoing discussion emphasizes critical evaluation of AI claims in the tech community.  
+
+Source: [THE DECODER](https://the-decoder.com/)
