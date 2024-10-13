@@ -30,15 +30,24 @@ user_agents = [
 # Add a simple cache
 content_cache = {}
 
+# Add a set to keep track of processed URLs
+processed_urls = set()
+
 def get_domain(url):
     return urlparse(url).netloc
 
 def fetch_web_content(url, keyword):
+    # Check if the URL has already been processed
+    if url in processed_urls:
+        print(f"Skipping already processed URL: {url}")
+        return None
+
     domain = get_domain(url)
     
     # Check if content is already in cache
     if url in content_cache:
         print(f"Returning cached content for {url}")
+        processed_urls.add(url)  # Mark as processed
         return content_cache[url]
 
     content = None
@@ -58,9 +67,9 @@ def fetch_web_content(url, keyword):
 
     if content:
         content_cache[url] = content
-
-    if keyword not in content:
-        return None
+        processed_urls.add(url)  # Mark as processed
+        if keyword and keyword not in content:
+            return None
     
     return content
 
@@ -215,7 +224,6 @@ def fetch_youtube_transcript(url):
     except Exception as e:
         print(f"Error fetching YouTube transcript: {e}")
         return None
-
 def download_chromedriver(version="114.0.5735.90"):
     base_url = f"https://chromedriver.storage.googleapis.com/{version}/"
     file_name = "chromedriver_mac64.zip"  # Adjust this if you're using a different OS
